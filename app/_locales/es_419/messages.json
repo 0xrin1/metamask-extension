@@ -188,6 +188,9 @@
   "aggregatorFeeCost": {
     "message": "Cuota de red de agregador"
   },
+  "airgapVaultTutorial": {
+    "message": " (Tutoriales)"
+  },
   "alertDisableTooltip": {
     "message": "Esto se puede modificar en \"Configuración > Alertas\""
   },
@@ -2333,7 +2336,7 @@
     "message": "ADVERTENCIA: No revele su frase de respaldo. Cualquier persona que tenga esta frase puede robarle los ethers."
   },
   "secretPhrase": {
-    "message": "Ingrese su frase secreta aquí para restaurar su bóveda."
+    "message": "Solo la primera cuenta de esta cartera se cargará automáticamente. Después de llevar a cabo este proceso, para agregar cuentas adicionales haga clic en el menú desplegable y luego seleccione Crear cuenta."
   },
   "secretRecoveryPhrase": {
     "message": "Frase secreta de recuperación"
@@ -2653,6 +2656,9 @@
   },
   "storePhrase": {
     "message": "Guarde esta frase en un administrador de contraseñas como 1Password."
+  },
+  "stxFailure": {
+    "message": "Error al canjear"
   },
   "submit": {
     "message": "Enviar"

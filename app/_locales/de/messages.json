@@ -188,6 +188,9 @@
   "aggregatorFeeCost": {
     "message": "Aggregator-Netzwerkgebühr"
   },
+  "airgapVaultTutorial": {
+    "message": " (Tutorials)"
+  },
   "alertDisableTooltip": {
     "message": "Dies kann in \"Einstellungen > Warnungen\" geändert werden"
   },
@@ -2595,6 +2598,9 @@
   },
   "storePhrase": {
     "message": "Speichern Sie diesen Schlüssel in einem Passwortmanager wie 1Password."
+  },
+  "stxFailure": {
+    "message": "Swap fehlgeschlagen"
   },
   "submit": {
     "message": "Abschicken"

@@ -188,6 +188,9 @@
   "aggregatorFeeCost": {
     "message": "アグリゲーター ネットワーク料金"
   },
+  "airgapVaultTutorial": {
+    "message": "(チュートリアル)"
+  },
   "alertDisableTooltip": {
     "message": "これは、[設定 > 警告] で変更できます"
   },
@@ -2601,6 +2604,9 @@
   },
   "storePhrase": {
     "message": "このフレーズを1Passwordのようなパスワードマネージャーに保存します。"
+  },
+  "stxFailure": {
+    "message": "スワップに失敗しました"
   },
   "submit": {
     "message": "送信"

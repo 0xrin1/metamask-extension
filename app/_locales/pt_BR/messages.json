@@ -188,6 +188,9 @@
   "aggregatorFeeCost": {
     "message": "Taxa de rede do agregador"
   },
+  "airgapVaultTutorial": {
+    "message": " (Tutoriais)"
+  },
   "alertDisableTooltip": {
     "message": "Isso pode ser alterado em \"Configurações > Alertas\""
   },
@@ -2637,6 +2640,9 @@
   },
   "storePhrase": {
     "message": "Guarde essa frase em um gerenciador de senhas, como o 1Password."
+  },
+  "stxFailure": {
+    "message": "Falha na troca"
   },
   "submit": {
     "message": "Enviar"
