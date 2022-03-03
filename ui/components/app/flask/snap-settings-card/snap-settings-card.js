@@ -144,7 +144,7 @@ const SnapSettingsCard = ({
                   color: COLORS.UI4,
                   margin: [0, 1],
                 }}
-                backgroundColor={COLORS.UI1}
+                backgroundColor={COLORS.BACKGROUND_ALTERNATIVE}
                 className="snap-settings-card__chip"
                 {...chipProps}
               />
